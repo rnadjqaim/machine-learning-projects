@@ -94,6 +94,3 @@ By understanding these factors, individuals and organizations can take informed 
 
 The project successfully identified key lifestyle and occupational factors that impact sleep quality, with the Random Forest model providing the best predictive performance.
 
----
-
-Do you want me to also make a **shorter, GitHub-friendly README.md** version that’s more concise? That would make it perfect for a public repo.
